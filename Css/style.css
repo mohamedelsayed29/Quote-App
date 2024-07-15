@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/pexels-pixabay-531880.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+
+}
+div {
+    text-align: center;
+}
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+h1 span {
+    font-size: 90px;
+    color: rgba(220, 19, 19, 0.906);
+}
+
+p {
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    border-radius: 200px;
+    background-color: green;
+    color: white;
+}
+
+button:hover {
+    background-color: rgba(220, 19, 19, 0.906);;
+}
+
